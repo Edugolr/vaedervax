@@ -9,6 +9,11 @@
         <link rel="stylesheet" type="text/css" href="assets/content-tools.min.css">
         <link rel="stylesheet" href="css/bootstrap.css">
         <link rel="stylesheet" href="css/styles.css">
-
+        <style>
+               .author {
+                   font-style: italic;
+                   font-weight: bold;
+               }
+       </style>
     </head>
 <body>
